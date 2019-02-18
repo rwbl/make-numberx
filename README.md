@@ -5,7 +5,7 @@
 * Usage example for playing games requiring random number (instead of dices).
 * By pressing the big square push-button on the front once, a random number is generated - takes 4 seconds.
 
-img:numberx-case.png
+![numberx-case](https://user-images.githubusercontent.com/47274144/52939401-6540c300-3364-11e9-96c9-654fbcb11203.png)
 
 ## Functionality
 * Generate Integer Random Number by a push-button
@@ -45,7 +45,7 @@ In addition for the prototype: 1x RGB LED (0.5 â‚¬), 3x Resistors 220 Ohm (0.5 â
 * B4R 1.8.0 or higher
 
 ## Wiring
-img:numberx_bb.png
+![numberx_bb](https://user-images.githubusercontent.com/47274144/52939400-6540c300-3364-11e9-8def-40eac92a1b81.png)
 
 ```
 #Arduino = Buttons (WireColors)
