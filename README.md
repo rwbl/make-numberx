@@ -68,3 +68,5 @@ PWM 5 = G leg (gray)
 PWM 6 = B leg (white)
 Note: 220Ohm resistors between the LED and Arduino
 ```
+## Soure Code
+The [B4R](https://www.b4x.com/b4r.html) source code and required libraries can be found in archive __numberx.zip__. The code is well documented.
