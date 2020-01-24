@@ -1,4 +1,4 @@
-# make_project_numberx
+# make_numberx
 
 # Objectives
 * To build a LEGO ® module to generate and display a random number within a given range.
